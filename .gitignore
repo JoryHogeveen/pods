@@ -37,4 +37,4 @@ tests/clover.xml
 node_modules
 
 # PHPunit config
-phpunit.xml
+phpunit.xml 
